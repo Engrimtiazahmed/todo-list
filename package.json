@@ -1,6 +1,6 @@
 {
-  "name": "todo-list",
-  "version": "1.0.0",
+  "name": "imt231-todo-list",
+  "version": "1.0.1",
   "description": "Todo listing project using typescript, node js and inquirer",
   "main": "index.js",
   "type": "module",
